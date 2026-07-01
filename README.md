@@ -30,5 +30,4 @@ Each project includes:
 
 ---
 
-**Created by:** Sambit Kumar Sahu  
-**Aspiring Data Analyst | Power BI Enthusiast**
+**Created by:** Sambit Kumar Sahu 
