@@ -12,6 +12,11 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 - A business intelligence dashboard providing insights into sales performance, profitability, customer trends, and product analysis.
 - Focus Areas: Sales Analysis, KPI Tracking, Trend Analysis, Interactive Reporting.
 
+### 🚗 Tesla EV Production & Delivery Analytics Dashboard
+- An interactive Power BI dashboard analyzing Tesla's EV production, deliveries, revenue, regional performance, and battery metrics through dynamic visualizations.
+- Focus Areas: Power BI, Power Query, DAX, Data Modeling, KPI Analysis, Interactive Dashboards, Data Visualization, Business Intelligence.
+
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
